@@ -6,7 +6,7 @@ This repository is maintained by LetsDefend. Feel free to add new resources here
 
 ## Table of Contents
 - <a href="https://github.com/oluwadamilolag/SOC-Analyst?tab=readme-ov-file#books" />Books</a><br>
-- <a href="https://github.com/oluwadamilolag/SOC-Analyst/edit/main/README.md#books" />Malware Analysis</a><br>
+- <a href="https://github.com/oluwadamilolag/SOC-Analyst/blob/main/README.md#malware-analysis" />Malware Analysis</a><br>
 - <a href="https://github.com/oluwadamilolag/SOC-Analyst/edit/main/README.md#books" />Practice Labs</a><br>
 - <a href="https://github.com/oluwadamilolag/SOC-Analyst/edit/main/README.md#books" />Phishing Analysis</a><br>
 - <a href="https://github.com/oluwadamilolag/SOC-Analyst/edit/main/README.md#books" />Tools for Investigation</a><br>
