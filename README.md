@@ -55,28 +55,29 @@ This repository is maintained by LetsDefend. Feel free to add new resources here
 
 # Malware Analysis
 - <a href="https://virustotal.com/" />VirusTotal</a> - Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches, automatically share them with the security community.
-- Hybrid Analysis - This is a free malware analysis service for the community that detects and analyzes unknown threats using a unique Hybrid Analysis technology.
-- YARA - YARA is a multi-platform program running on Windows, Linux and Mac OS X.
-- Malware Analysis Fundamentals
-- Cuckoo Sandbox - You can throw any suspicious file at it and in a matter of minutes Cuckoo will provide a detailed report outlining the behavior of the file when executed inside a realistic but isolated environment.
-- IDA - IDA Pro as a disassembler is capable of creating maps of their execution to show the binary instructions that are actually executed by the processor in a symbolic representation.
-- DOCGuard - Zero Miss for Office Malware Threats
-- Immunity Debugger - Immunity Debugger is a dynamic analysis tool that allows executables to be analyzed at the assembly language level with reverse engineering techniques.
+- <a href="https://www.hybrid-analysis.com/" />Hybrid Analysis</a> - This is a free malware analysis service for the community that detects and analyzes unknown threats using a unique Hybrid Analysis technology.
+- <a href="https://virustotal.github.io/yara/" />YARA</a> - YARA is a multi-platform program running on Windows, Linux and Mac OS X.
+- <a href="https://app.letsdefend.io/training/lessons/malware-analysis-fundamentals" />Malware Analysis Fundamentals</a>
+- <a href="https://cuckoosandbox.org/" />Cuckoo Sandbox</a> - You can throw any suspicious file at it and in a matter of minutes Cuckoo will provide a detailed report outlining the behavior of the file when executed inside a realistic but isolated environment.
+- <a href="https://hex-rays.com/ida-pro/" />IDA</a> - IDA Pro as a disassembler is capable of creating maps of their execution to show the binary instructions that are actually executed by the processor in a symbolic representation.
+- <a href="https://www.docguard.io/" />DOCGuard</a> - Zero Miss for Office Malware Threats
+- <a href="https://www.immunityinc.com/products/debugger/" />Immunity Debugger</a> - Immunity Debugger is a dynamic analysis tool that allows executables to be analyzed at the assembly language level with reverse engineering techniques.
 
 # Practice Labs
-DetectionLab - DetectionLab is a repository containing a variety of Packer, Vagrant, Powershell, Ansible, and Terraform scripts that allow you to automate the process of bringing an ActiveDirectory environment online complete with logging and security tooling using a variety of different platforms.
-LetsDefend - Hands-on SOC Analyst training
-attack_range - The Splunk Attack Range is an open-source project maintained by the Splunk Threat Research Team. It builds instrumented cloud and local environments, simulates attacks, and forwards the data into a Splunk instance.
-BlueTeam.Lab - The goal of this project is to provide the red and blue teams with the ability to deploy an ad-hoc detection lab to test various attacks and forensic artifacts on the latest Windows environment and then to get a 'SOC-like' view into generated data.
-Phishing Analysis
-MxToolbox - It will list MX records for a domain in priority order.
-Phishing email analysis course - FREE - Learn how to analysis of the most common attack vector in the cyber security industry.
-Tools for Investigation
-Process Hacker - Great tool for monitoring the system and detecting suspicious situations. It’s also free.
-Procmon - Procmon(Process Monitor) tool is a useful tool that provides real-time information by monitoring the activities of processes on Windows.
-Volatility - Volatility is a tool that enables the analysis of memory dumps taken from a compromised machine during the incident response process.
-Wireshark - Wireshark is a tool that allows capturing, analyzing, and recording network packets passing through network interfaces on the system.
-BrowsingHistoryView - It gives you the history of different browsers in one table.
+<a href="https://detectionlab.network/" />DetectionLab</a> - DetectionLab is a repository containing a variety of Packer, Vagrant, Powershell, Ansible, and Terraform scripts that allow you to automate the process of bringing an ActiveDirectory environment online complete with logging and security tooling using a variety of different platforms.
+<a href="https://letsdefend.io/" />LetsDefend</a> - Hands-on SOC Analyst training
+<a href="https://github.com/splunk/attack_range" />Attack_range</a> - The Splunk Attack Range is an open-source project maintained by the Splunk Threat Research Team. It builds instrumented cloud and local environments, simulates attacks, and forwards the data into a Splunk instance.
+<a href="https://github.com/op7ic/BlueTeam.Lab" />BlueTeam.Lab</a> - The goal of this project is to provide the red and blue teams with the ability to deploy an ad-hoc detection lab to test various attacks and forensic artifacts on the latest Windows environment and then to get a 'SOC-like' view into generated data.
+
+# Phishing Analysis
+<a href="" />MxToolbox</a> - It will list MX records for a domain in priority order.
+<a href="" />Phishing email analysis course - FREE</a> - Learn how to analysis of the most common attack vector in the cyber security industry.
+# Tools for Investigation
+<a href="" />Process Hacker</a> - Great tool for monitoring the system and detecting suspicious situations. It’s also free.
+<a href="" />Procmon</a> - Procmon(Process Monitor) tool is a useful tool that provides real-time information by monitoring the activities of processes on Windows.
+<a href="" />Volatility</a> - Volatility is a tool that enables the analysis of memory dumps taken from a compromised machine during the incident response process.
+<a href="" />Wireshark</a> - Wireshark is a tool that allows capturing, analyzing, and recording network packets passing through network interfaces on the system.
+<a href="" />BrowsingHistoryView</a> - It gives you the history of different browsers in one table.
 
 # Network Log Sources
 ### Network Devices Logs
