@@ -29,21 +29,21 @@ This repository is maintained by LetsDefend. Feel free to add new resources here
 	- <a href="https://github.com/oluwadamilolag/SOC-Analyst/edit/main/README.md#books" />Hosts File</a><br>
 	- <a href="https://github.com/oluwadamilolag/SOC-Analyst/edit/main/README.md#books" />Remote Desktop Protocol (RDP) Cache/History/Logs</a><br>
 <a href="https://github.com/oluwadamilolag/SOC-Analyst/edit/main/README.md#books" />Important Windows Logs for Investigation</a><br>
-<a href="https://github.com/oluwadamilolag/SOC-Analyst/edit/main/README.md#books" />DLP Logs</a><br>
-<a href="https://github.com/oluwadamilolag/SOC-Analyst/edit/main/README.md#books" />Endpoint Security Solutions Logs</a><br>
-<a href="https://github.com/oluwadamilolag/SOC-Analyst/edit/main/README.md#books" />Event Logs</a><br>
-<a href="https://github.com/oluwadamilolag/SOC-Analyst/edit/main/README.md#books" />File Integrity Monitoring Logs</a><br>
-<a href="https://github.com/oluwadamilolag/SOC-Analyst/edit/main/README.md#books" />Event Logs</a><br>
-<a href="https://github.com/oluwadamilolag/SOC-Analyst/edit/main/README.md#books" />Honeypot Logs</a><br>
-<a href="https://github.com/oluwadamilolag/SOC-Analyst/edit/main/README.md#books" />MSSQL Logs</a><br>
-<a href="https://github.com/oluwadamilolag/SOC-Analyst/edit/main/README.md#books" />Powershell Logs</a><br>
-<a href="https://github.com/oluwadamilolag/SOC-Analyst/edit/main/README.md#books" />Task Scheduler Logs</a><br>
-<a href="https://github.com/oluwadamilolag/SOC-Analyst/edit/main/README.md#books" />Windows Defender</a><br>
-<a href="https://github.com/oluwadamilolag/SOC-Analyst/edit/main/README.md#books" />WMI Logs</a><br>
-<a href="https://github.com/oluwadamilolag/SOC-Analyst/edit/main/README.md#books" />Linux System Logs</a><br>
-<a href="https://github.com/oluwadamilolag/SOC-Analyst/edit/main/README.md#books" />Auth Log</a><br>
-<a href="https://github.com/oluwadamilolag/SOC-Analyst/edit/main/README.md#books" />Kernel Log</a><br>
-<a href="https://github.com/oluwadamilolag/SOC-Analyst/edit/main/README.md#books" />Syslog</a><br>
+	- <a href="https://github.com/oluwadamilolag/SOC-Analyst/edit/main/README.md#books" />DLP Logs</a><br>
+	- <a href="https://github.com/oluwadamilolag/SOC-Analyst/edit/main/README.md#books" />Endpoint Security Solutions Logs</a><br>
+	- <a href="https://github.com/oluwadamilolag/SOC-Analyst/edit/main/README.md#books" />Event Logs</a><br>
+	- <a href="https://github.com/oluwadamilolag/SOC-Analyst/edit/main/README.md#books" />File Integrity Monitoring Logs</a><br>
+	- <a href="https://github.com/oluwadamilolag/SOC-Analyst/edit/main/README.md#books" />Event Logs</a><br>
+	- <a href="https://github.com/oluwadamilolag/SOC-Analyst/edit/main/README.md#books" />Honeypot Logs</a><br>
+	- <a href="https://github.com/oluwadamilolag/SOC-Analyst/edit/main/README.md#books" />MSSQL Logs</a><br>
+	- <a href="https://github.com/oluwadamilolag/SOC-Analyst/edit/main/README.md#books" />Powershell Logs</a><br>
+	- <a href="https://github.com/oluwadamilolag/SOC-Analyst/edit/main/README.md#books" />Task Scheduler Logs</a><br>
+	- <a href="https://github.com/oluwadamilolag/SOC-Analyst/edit/main/README.md#books" />Windows Defender</a><br>
+	- <a href="https://github.com/oluwadamilolag/SOC-Analyst/edit/main/README.md#books" />WMI Logs</a><br>
+- <a href="https://github.com/oluwadamilolag/SOC-Analyst/edit/main/README.md#books" />Linux System Logs</a><br>
+	- <a href="https://github.com/oluwadamilolag/SOC-Analyst/edit/main/README.md#books" />Auth Log</a><br>
+	- <a href="https://github.com/oluwadamilolag/SOC-Analyst/edit/main/README.md#books" />Kernel Log</a><br>
+	- <a href="https://github.com/oluwadamilolag/SOC-Analyst/edit/main/README.md#books" />Syslog</a><br>
 
 # Books
 - Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software
@@ -64,20 +64,20 @@ This repository is maintained by LetsDefend. Feel free to add new resources here
 - <a href="https://www.immunityinc.com/products/debugger/" />Immunity Debugger</a> - Immunity Debugger is a dynamic analysis tool that allows executables to be analyzed at the assembly language level with reverse engineering techniques.
 
 # Practice Labs
-<a href="https://detectionlab.network/" />DetectionLab</a> - DetectionLab is a repository containing a variety of Packer, Vagrant, Powershell, Ansible, and Terraform scripts that allow you to automate the process of bringing an ActiveDirectory environment online complete with logging and security tooling using a variety of different platforms.
-<a href="https://letsdefend.io/" />LetsDefend</a> - Hands-on SOC Analyst training
-<a href="https://github.com/splunk/attack_range" />Attack_range</a> - The Splunk Attack Range is an open-source project maintained by the Splunk Threat Research Team. It builds instrumented cloud and local environments, simulates attacks, and forwards the data into a Splunk instance.
-<a href="https://github.com/op7ic/BlueTeam.Lab" />BlueTeam.Lab</a> - The goal of this project is to provide the red and blue teams with the ability to deploy an ad-hoc detection lab to test various attacks and forensic artifacts on the latest Windows environment and then to get a 'SOC-like' view into generated data.
+- <a href="https://detectionlab.network/" />DetectionLab</a> - DetectionLab is a repository containing a variety of Packer, Vagrant, Powershell, Ansible, and Terraform scripts that allow you to automate the process of bringing an ActiveDirectory environment online complete with logging and security tooling using a variety of different platforms.
+- <a href="https://letsdefend.io/" />LetsDefend</a> - Hands-on SOC Analyst training
+- <a href="https://github.com/splunk/attack_range" />Attack_range</a> - The Splunk Attack Range is an open-source project maintained by the Splunk Threat Research Team. It builds instrumented cloud and local environments, simulates attacks, and forwards the data into a Splunk instance.
+- <a href="https://github.com/op7ic/BlueTeam.Lab" />BlueTeam.Lab</a> - The goal of this project is to provide the red and blue teams with the ability to deploy an ad-hoc detection lab to test various attacks and forensic artifacts on the latest Windows environment and then to get a 'SOC-like' view into generated data.
 
 # Phishing Analysis
-<a href="" />MxToolbox</a> - It will list MX records for a domain in priority order.
-<a href="" />Phishing email analysis course - FREE</a> - Learn how to analysis of the most common attack vector in the cyber security industry.
+- <a href="" />MxToolbox</a> - It will list MX records for a domain in priority order.
+- <a href="" />Phishing email analysis course - FREE</a> - Learn how to analysis of the most common attack vector in the cyber security industry.
 # Tools for Investigation
-<a href="" />Process Hacker</a> - Great tool for monitoring the system and detecting suspicious situations. It’s also free.
-<a href="" />Procmon</a> - Procmon(Process Monitor) tool is a useful tool that provides real-time information by monitoring the activities of processes on Windows.
-<a href="" />Volatility</a> - Volatility is a tool that enables the analysis of memory dumps taken from a compromised machine during the incident response process.
-<a href="" />Wireshark</a> - Wireshark is a tool that allows capturing, analyzing, and recording network packets passing through network interfaces on the system.
-<a href="" />BrowsingHistoryView</a> - It gives you the history of different browsers in one table.
+- <a href="" />Process Hacker</a> - Great tool for monitoring the system and detecting suspicious situations. It’s also free.
+- <a href="" />Procmon</a> - Procmon(Process Monitor) tool is a useful tool that provides real-time information by monitoring the activities of processes on Windows.
+- <a href="" />Volatility</a> - Volatility is a tool that enables the analysis of memory dumps taken from a compromised machine during the incident response process.
+- <a href="" />Wireshark</a> - Wireshark is a tool that allows capturing, analyzing, and recording network packets passing through network interfaces on the system.
+- <a href="" />BrowsingHistoryView</a> - It gives you the history of different browsers in one table.
 
 # Network Log Sources
 ### Network Devices Logs
