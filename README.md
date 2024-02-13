@@ -102,69 +102,69 @@ Hardware firewall devices are where the attacks to the institution are first met
 ### Web Application Firewall (WAF) Logs
 It is the firewall installed on the web side that corresponds to the threats that may occur in the application layer. Important records can be obtained in this section in response to application-level attack violations.
 
-Web Server Logs
-Apache Logs
+# Web Server Logs
+### Apache Logs
 Apache is an open-source web server software that is free to access. It is widely used in the IT industry. It can be preferable because it works on both Unix and Windows servers. Apache web server software records the access logs of the requests received. It also keeps error logs. These logs must be examined in order to see external threats to the web server.
 
-IIS Logs
+### IIS Logs
 IIS (Internet Information Services) is a web server developed by Microsoft and embellished in Windows systems. It was founded and used by Microsoft ages ago. Considering its use in the IT sector, it can be said that it is quite frequently used. In order to see the attacks and violations attempted to the IIS web server, logs of the IIS must be examined.
 
-Nginx Logs
+### Nginx Logs
 Nginx is a web server software with much higher performance,it is faster and requires less resource consumption than its competitors. Due to its preference and widespread use, many attacks can be developed against this web server. In order to view and analyze these attacks, the web server logs should be handled and examined just like we do with the Apache and IIS web server.
 
-Forensics Artifacts
-Browser History and Cache
+# Forensics Artifacts
+### Browser History and Cache
 A browser is a software in which web pages can be viewed. Since it can be used by the attacker in a seized system, the parts that may be important such as the addresses connected to the scanner during the analysis phase should be examined as they may contain a trace of the attacker.
 
-DNS Cache/History
+### DNS Cache/History
 DNS Cache is the section where DNS analyses queried in the system are recorded. It could help us locate the command and control center the attacker was using. It must be checked as it may contain important information about the attack.
 
-Hosts File
+### Hosts File
 The hosts file is one of the first places where we start a DNS analysis to find an IP address before referring to the DNS server. In a seized system, a new record may have been added to this file by the attacker. It is one of the files that should be checked during the forensic analysis phase as it may contain the domain name or command control server IP address of the attacker.
 
-Remote Desktop Protocol (RDP) Cache/History/Logs
+### Remote Desktop Protocol (RDP) Cache/History/Logs
 The RDP protocol is a protocol that enables remote connection to the target system. In the analyzed system, information about systems with an RDP connection is saved in the RDP cache. If the attacker has made an RDP connection, IP address information of the attacker can be obtained in the cache. It is one of the points that should be examined while analyzing a system.
 
-Important Windows Logs for Investigation
-Application Logs
+# Important Windows Logs for Investigation
+### Application Logs
 Applications installed on the Windows operating system may have their own special logs and these logs are the source that should be examined by the analyst regarding that application.
 
-DLP (Data Loss Prevention) Logs
+### DLP (Data Loss Prevention) Logs
 DLP software is security software installed in the system to prevent data leakage. This software can keep logs on the transactions it performs, and these logs are one of the points that the analyst should examine in order to detect violations.
 
-Endpoint Security Solutions Logs
+### Endpoint Security Solutions Logs
 Endpoint security solutions are security software aimed at ensuring the security installed on end-user devices and reducing data breaches. This software can create important and comprehensive logs in case of violation. In order to understand whether the violation has occurred and to see the details, the analyst should examine these logs.
 
-Event Logs
+### Event Logs
 Event logs are a comprehensive resource that collects logs from many points of the system that are included in the Windows operating system. These logs include a wide variety of log types. This is the most important log source that the security analyst should examine.
 
-File Integrity Monitoring (FIM) Logs
+### File Integrity Monitoring (FIM) Logs
 File integrity monitoring software is the security software that follows the changes and accesses of the files in the system. In order to obtain information about which files have been changed in case of an attack violation, the analyst must examine the logs of these software.
 
-Honeypot Logs
+### Honeypot Logs
 Honeypot systems are trap systems that are a copy of real systems specially installed for the attacker. Since the attack methods on Honeypot systems may be an attack vector that the attacker can use against the real system, the logs obtained through these systems enable measures to be taken against significant attacks. Therefore, these logs may contain critical information.
 
-MSSQL Logs
+### MSSQL Logs
 MSSQL is Microsoft’s relational database management system. It is often used as a database. It is important to review the logs of the MSSQL database to view unauthorized access to the MSSQL database or to view error messages.
 
-Powershell Logs
+### Powershell Logs
 PowerShell is an inter-platform task automation solution consisting of a command line shell, a script language, and a configuration management framework. PowerShell runs on Windows, Linux, and macos. It is often preferred by attackers because attacks can be more effective when performed with powershell. Powershell’s logs must be examined in order to detect the harmful commands run in the system and to reveal the attack.
 
-Task Scheduler Logs
+### Task Scheduler Logs
 Scheduled tasks are used in windows to perform certain operations at certain times. The intruder infiltrating the system can use this to ensure persistence. The analyst can examine logs of scheduled tasks while securing the system and detecting attacks.
 
-Windows Defender
+### Windows Defender
 Windows defender is the most basic structure that is responsible for protecting the system that comes with the Windows operating system against attackers and malware. Logs related to the scans or findings of Windows defender may contain some important details. Therefore, examining the logs in this section can provide new information related to the attack details.
 
-WMI Logs
+### WMI Logs
 WMI (Windows Management Instrumentation) is a technology that enables almost every object to be controlled in Windows operating systems and can perform operations and management functions in the operating system. The operations that can be performed with WMI commands on the system are numerous and if the attacker has run WMI commands in the system, the logs of WMI must be examined and evaluated.
 
-Linux System Logs
-Auth Log
+# Linux System Logs
+### Auth Log
 The log file in which successful or unsuccessful login and authentication processes are recorded is called auth log. The auth log file, where attack attempts against important accounts can be seen, has an important place in the examination of Linux systems.
 
-Kernel Log
+### Kernel Log
 This is the file where warning, information and error records of the Kernel are kept. It is usually examined in kernel-related error situations.
 
-Syslog
+### Syslog
 In Linux systems, the log source that shows general information and messages about the system is called syslog. It is one of the first points in the study of Linux systems.
