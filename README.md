@@ -54,7 +54,7 @@ This repository is maintained by LetsDefend. Feel free to add new resources here
 - Jump-start Your SOC Analyst Career: A Roadmap to Cybersecurity Success
 
 # Malware Analysis
-- VirusTotal - Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches, automatically share them with the security community.
+- <a href="https://virustotal.com/" />VirusTotal</a> - Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches, automatically share them with the security community.
 - Hybrid Analysis - This is a free malware analysis service for the community that detects and analyzes unknown threats using a unique Hybrid Analysis technology.
 - YARA - YARA is a multi-platform program running on Windows, Linux and Mac OS X.
 - Malware Analysis Fundamentals
