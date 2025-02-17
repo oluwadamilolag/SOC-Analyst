@@ -1,7 +1,7 @@
 # SOC-Analyst
 We just collected useful resources for SOC analysts and SOC analyst candidates.
 
-This repository is maintained by <a href="https://app.letsdefend.io/training" />LetsDefend</a>. Feel free to add new resources here.
+This repository is maintained by OLUWADAMILOLA GBADAMOSI. Feel free to add new resources here.
 
 ## Table of Contents
 - <a href="https://github.com/oluwadamilolag/SOC-Analyst?tab=readme-ov-file#books" />Books</a><br>
